@@ -2,11 +2,11 @@
 A calculator, created using HTML, CSS and JavaScript, with a history feature to show past calculations.
 
 The calculator allows to perform following functions-
+
 <li>Basic Operations: Addition, subtraction, multiplication, division, remainder
 <li>Trigonometric functions: sin(), cos(), tan()
 <li>Square, cube, squareroot, cuberoot, factorial, value of π
 
-<a><img src="https://github.com/vanshika-singh518/CalculatorWithHistoryFeature/blob/main/calculator-with-history-feature.png"> </a> 
 <h2>Features of the Calculator</h2>
 <li>Numbers from 0 to 9
 <li>Decimal calculations are also allowed
@@ -27,9 +27,6 @@ The calculator allows to perform following functions-
 <li><b>π : </b> Gives the value of pi
 <li><b>sin(value) : </b>Returns the sine of a number, where value is a number given in radians. 
 <li><b>cos(value) : </b>Returns the cosine of a number, where value is a number given in radians. 
-<li><b>tan(value) : </b>Returns the tangent of a number, where value is a number given in radians. 
+<li><b>tan(value) : </b>Returns the tangent of a number, where value is a number given in radians.
 
-  ![history-feature-example](https://user-images.githubusercontent.com/83200847/138139134-eed58c98-4751-490d-ade3-9b1e45790f10.png)
-
-  
-Here's the link to the calculator: <a href="https://61703ca6bc70b33f58fc270f--calculator-with-history-feature.netlify.app/">Calculator-with-history-feature</a>
+Here's the link to the calculator: <a href="https://calculatorwithhistoryfeature.vercel.app/">Calculator-with-history-feature</a>
